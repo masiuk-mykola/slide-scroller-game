@@ -96,7 +96,7 @@ window.addEventListener("load", function () {
   }
 
   class Background {
-    constructor(gameWidth, gameHeight)
+    // constructor(gameWidth, gameHeight)
   }
   class Enemy {}
 
